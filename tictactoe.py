@@ -13,6 +13,11 @@
 # Time testing code: 45 minutes
 # Total time on challenge: 1 hr 40 minutes
 
+# RESOURCES CONSULTED:
+# (1) https://www.w3schools.com/python/ref_func_filter.asp - information about the filter() method in Python (not used in the code)
+# (2) https://stackoverflow.com/questions/12222706/check-if-list-contains-only-item-x  - information about how to check for "only __ items" in an array
+# (3) https://codereview.stackexchange.com/questions/193004/python-tic-tac-toe-class - example of how to use classes for a 2-D tic-tac-toe game
+
 
 # helper function
 def valid(array):
