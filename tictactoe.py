@@ -7,11 +7,11 @@
 
 
 # CHALLENGE INFORMATION:
-# Start time: 7:25pm
+# Start time: 7:35pm
 # End time: 9:15pm
 # Time building code: 55 minutes
 # Time testing code: 45 minutes
-# Total time on challenge: 1 hr 35 minutes
+# Total time on challenge: 1 hr 40 minutes
 
 
 # helper function
