@@ -128,7 +128,7 @@ def incomplete(array):
 # main function
 def tictactoe(array):
     """
-    The anticipated INPUT for this method is an array with values at the indexes 
+    The anticipated INPUT for this method is a 1D array with values at the indexes 
     corresponding to places in a tic-tac-toe game board (0-8).
     This method calls smaller helper methods for each possible outcome of the game. 
     This orgnizational choice was made for easier readability of the code.
