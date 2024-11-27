@@ -22,7 +22,7 @@
 # helper function
 def valid(array):
     """
-    The anticipated INPUT for thi method is an array.
+    The anticipated INPUT for this method is an array.
     This method will evaluate an array to make sure all values are either an "X", "O", or "-".
     """
     if len(array) < 9:  # if the array doesn't have 9 elements, it's invalid
