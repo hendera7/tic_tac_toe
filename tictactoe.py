@@ -47,7 +47,7 @@ def valid(array):
 # helper function
 def winner(array):
     """
-    The anticipated INPUT for thi method is an array.
+    The anticipated INPUT for this method is an array.
     This method will evaluate to see if the array values at specific indexes are the same to 
     determine if there is a winner.
 
